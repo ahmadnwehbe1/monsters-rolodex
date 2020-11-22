@@ -42,7 +42,7 @@ class App extends Component {
             marginTop: "30px",
           }}
         >
-          Monsters Rolodex
+          Monsters Beh
         </h1>
         <SearchBox
           placeholder="Search Monsters..."
