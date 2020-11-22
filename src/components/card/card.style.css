@@ -1,0 +1,15 @@
+.ui.card {
+  width: 200px !important;
+  height: 340px !important;
+  transition: width 0.5s, height 0.5s !important;
+  border: grey 1px solid;
+}
+
+.ui.card:hover {
+  width: 210px !important;
+  height: 350px !important;
+}
+
+p {
+  vertical-align: bottom !important;
+}
